@@ -1,0 +1,39 @@
+.line-5 {
+  width: 1 00%;
+  height: 8px;
+
+  background: linear-gradient(
+    transparent 2px,
+    #ff903f 2px,
+    #ff903f 3px,
+    transparent 3px
+  );
+}
+
+.vl {
+  border-left: 1.5px solid rgba(0, 0, 0, 0.441);
+
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  margin-bottom: 10%;
+  padding-top: 10%;
+  margin-top: -9%;
+}
+
+.sm {
+  margin-left: 10%;
+  margin-top: 1%;
+}
+
+.cu {
+  text-align: right;
+  margin-right: 20%;
+  margin-top: -10%;
+}
+.ul {
+  font-style: bold;
+  font-family: "Franklin Gothic Medium";
+  font-size: 20px;
+  font-weight: 700;
+}
